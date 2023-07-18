@@ -1,4 +1,4 @@
-package com.amigoscode.fraud;
+package com.sobanscode.fraud;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
