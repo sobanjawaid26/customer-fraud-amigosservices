@@ -18,6 +18,7 @@
 <!--    <module>apigw</module>-->
 <!--    <module>amqp</module>-->
     <module>customer</module>
+    <module>fraud</module>
   </modules>
 
   <name>amigosservices</name>
