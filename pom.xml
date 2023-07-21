@@ -17,10 +17,10 @@
 <!--    <module>notification</module>-->
 <!--    <module>apigw</module>-->
 <!--    <module>amqp</module>-->
-    <module>customer</module>
-    <module>fraud</module>
-    <module>eureka-server</module>
-    <module>clients</module>
+      <module>customer</module>
+      <module>fraud</module>
+      <module>eureka-server</module>
+      <module>clients</module>
       <module>notification</module>
   </modules>
 
